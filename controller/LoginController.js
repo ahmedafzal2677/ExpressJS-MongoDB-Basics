@@ -14,6 +14,7 @@ class LoginController {
       }
     } catch (error) {
       console.log(error);
+      console.log("schbwshjcbecedj");
     }
   };
 }
