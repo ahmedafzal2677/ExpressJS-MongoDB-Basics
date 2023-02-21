@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Simple Backend Configuration of Models & Controllers(Basic Level)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project will demostrate how models are created and how to give logic in controllers. Also, routes folder will give you basic understanding of the react-router
 
 ## Available Scripts
 
